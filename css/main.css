@@ -669,28 +669,6 @@ main{
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .product_card .card_header img{
   height: 134px;
   margin: 23px 0;
@@ -1294,13 +1272,11 @@ margin: 20px 0 35px;
 
 .tab_pane{
   width: 825px;
-  border: 1px solid red;
   padding: 6px 24px 20px;
   background: #FDFBFB;
 
 }
 #pills-profile{
-  border: 1px solid yellow;
   padding: 0 24px;
 
 }
